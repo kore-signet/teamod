@@ -1,0 +1,16 @@
+[
+{
+  "modid": "teamod",
+  "name": "Tea Mod",
+  "description": "Adds Tea into the game.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/alisw/teamod",
+  "updateUrl": "",
+  "authorList": ["Alisw (https://github.com/alisw)"],
+  "credits": "My cat, for sitting on my lap the entire time.",
+  "logoFile": "assets/teamod/textures/items/teacup_hot.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

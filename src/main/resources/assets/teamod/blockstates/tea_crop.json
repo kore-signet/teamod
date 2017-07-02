@@ -1,0 +1,50 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "crop"
+	},
+	"variants": {
+		"age": {
+			"0": {
+				"textures": {
+					"crop": "teamod:blocks/0"
+				}
+			},
+			"1": {
+				"textures": {
+					"crop": "teamod:blocks/0"
+				}
+			},
+			"2": {
+				"textures": {
+					"crop": "teamod:blocks/0"
+				}
+			},
+			"3": {
+				"textures": {
+					"crop": "teamod:blocks/0"
+				}
+			},
+			"4": {
+				"textures": {
+					"crop": "teamod:blocks/1"
+				}
+			},
+			"5": {
+				"textures": {
+					"crop": "teamod:blocks/1"
+				}
+			},
+			"6": {
+				"textures": {
+					"crop": "teamod:blocks/1"
+				}
+			},
+			"7": {
+				"textures": {
+					"crop": "teamod:blocks/2"
+				}
+			}
+		}
+	}
+}
