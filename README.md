@@ -8,7 +8,7 @@ On config/teamod.conf, you can change wheter or not Cold Tea will be crafted usi
 ![Tea Seed](http://i.imgur.com/zPEfn4b.png)
 ## Cold Tea
 ### Crafting Table method (default)
-![Cold Tea](http://i.imgur.com/undefined.png)
+![Cold Tea](http://i.imgur.com/CMo8uad.png)
 ### Brewing Stand method
 ![Cold Tea](http://i.imgur.com/faFqjvc.png)
 ## Hot Tea
