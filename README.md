@@ -19,6 +19,6 @@ On config/teamod.conf, you can change wheter or not Cold Tea will be crafted usi
 ![Iced Tea](http://i.imgur.com/rpmLCnc.png)
 
 # Potion effects
-Cold Tea - Regeneration, speed and nausea <br\>
-Hot Tea - Regeneration and speed <br\>
-Iced Tea - Strength, regeneration and health boost <br\>
+* Cold Tea - Regeneration, speed and nausea 
+* Hot Tea - Regeneration and speed 
+* Iced Tea - Strength, regeneration and health boost 
